@@ -1,0 +1,23 @@
+{
+  "id": "a6966744-1691-41dc-b45e-f3dce752f83e",
+  "collaborators": [
+    {
+      "id": "fb163eb6-d63b-4954-b729-087355460a51",
+      "role": "developer",
+      "githubUsername": "LostInStatic"
+    },
+    {
+      "id": "ff8ec135-0c13-4f9e-ba81-179766c6b6c4",
+      "githubUsername": "karczewskiPiotr",
+      "role": "editor"
+    }
+  ],
+  "description": "",
+  "name": "test 727",
+  "packageManager": "npm",
+  "useSass": false,
+  "useTypescript": false,
+  "creationDate": 1662083836684,
+  "tags": [],
+  "snippets": []
+}
